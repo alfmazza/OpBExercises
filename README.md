@@ -1,3 +1,3 @@
 # OpBExercises
 
-Primera y segunda parte de los ejercicios tema 3.
+Ejercicios del Curso de Introducción a la programación de OpenBootcamp.
